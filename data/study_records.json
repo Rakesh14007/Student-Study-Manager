@@ -1,13 +1,7 @@
 [
-    
     {
-        "subject": "Mathematics",
-        "topic": "Multiple integral",
-        "duration": 4.0
-    },
-    {
-        "subject": "Programming Language",
-        "topic": "Python",
-        "duration": 3.0
+        "subject": "Python",
+        "topic": "Function",
+        "duration": 2.0
     }
 ]
